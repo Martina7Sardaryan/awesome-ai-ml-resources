@@ -171,6 +171,7 @@ This repository contains free resources and a roadmap to learn Machine Learning 
 
 ## 📩 Newsletters
 - [The AI Engineer](https://aimlengineer.io)
+- [BuzzRobot AI Newsletter. Exclusive talks by top researchers from Google DeepMind, OpenAI, Meta, and others, on cutting-edge artificial intelligence (AI) papers.](https://buzzrobot.substack.com/)
 
 ## 📃 Must Read Papers
 - [Attention Is All You Need (Google)](https://arxiv.org/pdf/1706.03762)
